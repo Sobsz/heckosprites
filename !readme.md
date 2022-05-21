@@ -77,7 +77,6 @@ these cannot be created using the regular method because they're too extraordina
 - g - grin :]
 - w - owo :3
 - p - tongue out :P
-
 - n - neutral :|
 - o - open :O
 - q - quite open :o
@@ -88,7 +87,6 @@ these cannot be created using the regular method because they're too extraordina
 - t - tiny :·
 - b - blank :
 - i - i ran out of memorable letters this one's neutral but smaller
-
 - s - sad :(
 - c - crying D:
 - e - unsure :/
