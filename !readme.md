@@ -1,4 +1,4 @@
-(if you wanna see the code click [here](https://github.com/Sobsz/heckosprites/tree/master/make), you can't see it normally because of the file limit but it's there i swear)
+(if you wanna see the code click [here](https://github.com/Sobsz/heckosprites/tree/main/make), you can't see it normally because of the file limit but it's there i swear)
 
 # HOW TO USE
 1. type https://sobsz.github.io/heckosprites/
