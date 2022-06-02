@@ -77,7 +77,7 @@ these cannot be created using the regular method because they're too extraordina
 - g - grin :]
 - w - owo :3
 - p - tongue out :P
-- n - neutral :|
+- n - neutral :\|
 - o - open :O
 - q - quite open :o
 - y - yelling :()
